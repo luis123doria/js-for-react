@@ -52,15 +52,11 @@ En `index.js` agregamos el siguiente código:
 console.log("Hola Mundo");
 ```
 
-Haremos uso de Live Server para visualizar el contenido de nuestro proyecto:
+Haremos uso de Live Server para visualizar el contenido de nuestro proyecto
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1663637394862/hJ5xRQ1Fo.png align="left")
+Ya hemos configurado el proyecto
 
-Ya hemos configurado el proyecto, se debe ver así:
-
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1663637466678/Dt0c3ONTw.png align="left")
-
-Puedes acceder al repositorio de este proyecto [aquí](https://github.com/luis123doria/js-for-react).
+Puedes acceder al repositorio de este proyecto [aquí](https://github.com/luis123doria/js-for-react) y al proyecto [aquí](https://luis123doria.github.io/js-for-react/)
 
 
 ## Funciones de Javascript
